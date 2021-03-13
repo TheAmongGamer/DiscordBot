@@ -1,0 +1,8 @@
+Hola Si Ves Esto Significa Que Invitaste El Bot Para Usarlo Usa Estos Comandos.
+!Prefijo
+Muestra El Prefijo Del Bot
+!Idioma
+Muestra El Idioma Que Quieres Usar.
+!Ping
+Pong
+!
